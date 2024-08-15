@@ -1,1 +1,1 @@
-# AI-models
+# AI Models
